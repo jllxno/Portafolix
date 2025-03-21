@@ -34,7 +34,7 @@ li a{
 }
 
 li a:hover{
-  color: #c70ca8;
+  color: #ff0000;
 
 }
 
@@ -56,3 +56,11 @@ li a:hover{
   color: black;
 }
 
+.body{
+  display:block;
+  padding-top: 6rem;
+  padding-left: 6rem;
+  text-align: center;
+  font-size: 1.3rem;
+
+}
