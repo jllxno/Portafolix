@@ -1,6 +1,11 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "font-awesome": "^4.7.0",
     "react-router-dom": "^7.4.0"
+=======
+    "react-slick": "^0.30.3",
+    "slick-carousel": "^1.8.1"
+>>>>>>> a4a101a76e22516880fc583b476efd9124840dd7
   }
 }
